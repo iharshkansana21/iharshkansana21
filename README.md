@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React and Python**
+- 💬 Ask me about **JavaScript and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
